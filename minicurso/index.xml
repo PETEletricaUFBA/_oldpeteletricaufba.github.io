@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Minicursos PET on PET Eletrica UFBA</title>
-    <link>peteletricaufba.github.io/minicurso/</link>
+    <link>https://peteletricaufba.github.io/minicurso/</link>
     <description>Recent content in Minicursos PET on PET Eletrica UFBA</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)</copyright><atom:link href="peteletricaufba.github.io/minicurso/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)</copyright><atom:link href="https://peteletricaufba.github.io/minicurso/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
